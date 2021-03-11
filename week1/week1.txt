@@ -1,0 +1,5 @@
+topics learnt in week1
+
+- Git
+- Maven
+- Jenkins
